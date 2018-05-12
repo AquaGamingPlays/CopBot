@@ -1,0 +1,10 @@
+C:\Users\khali\Desktop\CopBot\CopBot\bin\Debug\CopBot.exe.config
+C:\Users\khali\Desktop\CopBot\CopBot\bin\Debug\CopBot.exe
+C:\Users\khali\Desktop\CopBot\CopBot\bin\Debug\CopBot.pdb
+C:\Users\khali\Desktop\CopBot\CopBot\bin\Debug\WebDriver.dll
+C:\Users\khali\Desktop\CopBot\CopBot\bin\Debug\WebDriver.Support.dll
+C:\Users\khali\Desktop\CopBot\CopBot\bin\Debug\WebDriver.xml
+C:\Users\khali\Desktop\CopBot\CopBot\bin\Debug\WebDriver.Support.xml
+C:\Users\khali\Desktop\CopBot\CopBot\obj\Debug\CopBot.csprojResolveAssemblyReference.cache
+C:\Users\khali\Desktop\CopBot\CopBot\obj\Debug\CopBot.exe
+C:\Users\khali\Desktop\CopBot\CopBot\obj\Debug\CopBot.pdb
